@@ -1,6 +1,7 @@
 With the rise in crime and the lack of security in my country, a guy asked me if I could make a surveillance camera system. For that, I thought about using a Raspberry Pi, some storage, and different IP cameras to improve security through AI.
 
 the nvr assembled
+
 <img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/853c7288-dd09-428a-8b74-a2459209dcea" />
 there´s the materials
 <img width="5184" height="3456" alt="IMG_4571" src="https://github.com/user-attachments/assets/ab1350ce-7823-4537-abbd-80fce4b4827d" />

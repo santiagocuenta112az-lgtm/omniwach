@@ -15,7 +15,7 @@ put the screen on the suport
 
 <img width="933" height="660" alt="image" src="https://github.com/user-attachments/assets/85dc74f1-fbe7-49ea-9f7a-55453377a795" />
 
-put the front parto of the support
+put the front part of the support
 
 <img width="1158" height="562" alt="image" src="https://github.com/user-attachments/assets/a8a2dd9d-005b-4d6f-8c00-e717b88b41aa" />
 
